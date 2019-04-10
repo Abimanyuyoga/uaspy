@@ -1,6 +1,5 @@
 # UAS Bahasa Pemrograman 1
 
-silakan tuliskan langkah-langkah disertai screenshotnya
 
 1. Pertama Kita Lakukan Fork dari repository berikut: https://github.com/abuazzam/uaspy, kemudian Clone
 ke local repository.
@@ -9,3 +8,4 @@ ke local repository.
 
 2. Kedua Lakukan konfigurasi virtual environment pada project anda.
 
+![Env](https://user-images.githubusercontent.com/46512870/55852858-ccbb0800-5b88-11e9-83b3-b40c7b92b93c.png)
